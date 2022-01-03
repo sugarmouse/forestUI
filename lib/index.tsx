@@ -1,4 +1,6 @@
- console.log('hi4')
- const $h2 = document.createElement('h2')
- $h2.innerText = 'this is h4'
- document.body.appendChild($h2)
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+console.log(React)
+console.log(ReactDOM)
+
